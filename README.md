@@ -12,3 +12,4 @@ guide: https://www.inpixon.com/technology/standards/chirp-spread-spectrum
 - [License Free Off-Grid Comms (LoRa Meshtastic)](https://youtu.be/DumgHz56IjI)
 - [Lora tutorial | Getting started with lora | What is LoRa features | LoRa introduction | LoRaWAN](https://youtu.be/jp_2gwBrQc8)
 - [Everything you need to know about LoRaWAN in 60 minutes - Johan Stokking (The Things Industries)](https://youtu.be/ZsVhYiX4_6o)
+- [How I broadcast LoRa packets WITHOUT a radio](https://youtu.be/eIdHBDSQHyw)
